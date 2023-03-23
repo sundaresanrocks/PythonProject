@@ -1,0 +1,169 @@
+2022-11-25 09:03:03: -----------Request----------->
+POST https://reqres.in/api/register
+
+User-Agent: python-requests/2.27.1
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Content-Length: 42
+Content-Type: application/x-www-form-urlencoded
+
+email=eve.holt%40reqres.in&password=pistol
+
+2022-11-25 09:03:03: <-----------Response-----------
+Status code:200
+
+Date: Fri, 25 Nov 2022 09:03:03 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 36
+Connection: keep-alive
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Etag: W/"24-4iP0za1geN2he+ohu8F0FhCjLks"
+Via: 1.1 vegur
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=BTRSOrUFPZ5t1Smawu24xT0%2Blc564LgK4uXs1FG5UcurufJM8y1r%2BOhhaiswOaOBFq6UXR1mQ2s%2FdBzEDIh%2Bcv2jqLhWoVPAvnqwOKvhaJDLUv60sV2aHqaAkJYvYsxIHoUhe%2Bq8Vw%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 76f9357a79d21789-MAA
+
+{
+   "id": 4,
+   "token": "QpwL5tke4Pnpja7X4"
+}
+
+2022-11-25 09:03:03: -----------Request----------->
+POST https://reqres.in/api/register
+
+User-Agent: python-requests/2.27.1
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Content-Length: 50
+Content-Type: application/x-www-form-urlencoded
+
+email=michael.lawson%40reqres.in&password=password
+
+2022-11-25 09:03:03: <-----------Response-----------
+Status code:200
+
+Date: Fri, 25 Nov 2022 09:03:03 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 36
+Connection: keep-alive
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Etag: W/"24-8tTWiYHQANHoQfVrTc/AwmqN43g"
+Via: 1.1 vegur
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Xap%2BHqe0CYhbrvNjQuXZE2SfJuO7yUvHUi3S15I6fIxxc5LuVd0Va6mulghZ9vMpNFBRZj%2BiOiqmwsynZixySYd%2BS424i1Mmob0Bc9t%2FsqypHRfrRv3rQtGJEsi6F3XCjWFwoZXZ9Q%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 76f9357d186eb299-MAA
+
+{
+   "id": 7,
+   "token": "QpwL5tke4Pnpja7X7"
+}
+
+2022-11-25 09:03:03: -----------Request----------->
+POST https://reqres.in/api/register
+
+User-Agent: python-requests/2.27.1
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Content-Length: 49
+Content-Type: application/x-www-form-urlencoded
+
+email=lindsay.ferguson%40reqres.in&password=tests
+
+2022-11-25 09:03:03: <-----------Response-----------
+Status code:200
+
+Date: Fri, 25 Nov 2022 09:03:03 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 36
+Connection: keep-alive
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Etag: W/"24-oqn+iUKVi0WoYhgeMmqSSB4YMj4"
+Via: 1.1 vegur
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=VSnIo1rn4l7zznVMUXcwWGkNM7oD2H8JTDGdfQYljkjzUNB%2F5aafwk7ar4VZITZP%2F5mpHbvjsDf6%2BYQxKvT9RtbS4EB950PVYxyo3j5A7jfpAp0AQJGegkgy9sNVLtWdqxcznTRPmQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 76f9357f8e59b2a0-MAA
+
+{
+   "id": 8,
+   "token": "QpwL5tke4Pnpja7X8"
+}
+
+2022-11-25 09:03:04: -----------Request----------->
+POST https://reqres.in/api/register
+
+User-Agent: python-requests/2.27.1
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Content-Length: 45
+Content-Type: application/x-www-form-urlencoded
+
+email=tobias.funke%40reqres.in&password=tests
+
+2022-11-25 09:03:04: <-----------Response-----------
+Status code:200
+
+Date: Fri, 25 Nov 2022 09:03:04 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 36
+Connection: keep-alive
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Etag: W/"24-HOJk4z/XAVmY0x6U9Vh6O0AHKi0"
+Via: 1.1 vegur
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=xWzjB8FXhyc7BwzqNTJwIKmmK5Tz4yrgg0KA6jNBWpTXwMyb49A8Vuw73hpMt9Vvv8EWQvkC0vAdzua0Zklqyvhvd%2FHSOX%2FyIyTqeYOofvCvrwlQIpHd7MFm1DLuGgQUkZgB7AoOUA%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 76f9358218b3a91a-MAA
+
+{
+   "id": 9,
+   "token": "QpwL5tke4Pnpja7X9"
+}
+
+2022-11-25 09:03:04: -----------Request----------->
+POST https://reqres.in/api/register
+
+User-Agent: python-requests/2.27.1
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Content-Length: 47
+Content-Type: application/x-www-form-urlencoded
+
+email=invalid_email%40request.in&password=tests
+
+2022-11-25 09:03:04: <-----------Response-----------
+Status code:400
+
+Date: Fri, 25 Nov 2022 09:03:04 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 57
+Connection: keep-alive
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Etag: W/"39-6jrJxn+7f+pQUhbPgNMst7tagpA"
+Via: 1.1 vegur
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=KwGtV8qWSQQMk95yvB2U1nnMfxth6YFgXRUhZDyRdqF9PdWz9FabFWR9PdLhOlw7kVAZ4%2FceBd8jeDvDa%2FfIjL8%2FbXg81alaAp0vTA7fvCoc5O9JmLYufq2nBjouu7iU%2FOlPYY4fsg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 76f935848b5cb2b1-MAA
+
+{
+   "error": "Note: Only defined users succeed registration"
+}
+

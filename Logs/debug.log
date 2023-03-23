@@ -1,0 +1,5 @@
+2022-11-25 09:03:03 [INFO   ][ln-292]: Test <module> passed.
+2022-11-25 09:03:03 [INFO   ][ln-292]: Test <module> passed.
+2022-11-25 09:03:03 [INFO   ][ln-292]: Test <module> passed.
+2022-11-25 09:03:04 [INFO   ][ln-292]: Test <module> passed.
+2022-11-25 09:03:04 [ERROR  ][ln-151]: test_multiple_user_login failed with response code 400.

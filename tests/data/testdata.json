@@ -1,0 +1,15 @@
+{
+  "fakeAccountInfo": {"id":"12345678-abcd-4321-aaaa-eeffeeffeeff","organization":"XE","package":"ENTERPRISE","service_start_timestamp":"2017-09-06T00:00:00Z","service_end_timestamp":"2017-12-29T00:00:00Z"},
+
+  "fakeCurrencies": {"currencies":[{"iso":"USD","currency_name":"Emirati Dirham","is_obsolete":false},{"iso":"EUR","currency_name":"Falkland Island Pound","is_obsolete":false},{"iso":"GBP","currency_name":"British Pound","is_obsolete":false}]},
+
+  "fakeConvertFrom": {"from":"EUR","amount":55.0,"timestamp":"2017-10-03T18:59:00Z","to":[{"quotecurrency":"GBP","mid":80.7057828403}]},
+
+  "fakeConvertTo": {"to":"GBP","amount":55.0,"timestamp":"2017-10-03T18:59:00Z","from":[{"quotecurrency":"EUR","mid":1.1872421446}]},
+
+  "fakeHistoricRate": {"from":"EUR","amount":55.0,"timestamp":"2016-12-25T13:00:00Z","to":[{"quotecurrency":"CAD","mid":77.8285483431}]},
+
+  "fakeHistoricRatePeriod": {"from":"EUR","amount":55.0,"to":{"RUB":[{"mid":3388.9716501348,"timestamp":"2017-02-28T12:00:00Z"},{"mid":3365.0716562481,"timestamp":"2017-03-01T12:00:00Z"},{"mid":3388.0176650102,"timestamp":"2017-03-02T12:00:00Z"},{"mid":3413.1330139571,"timestamp":"2017-03-03T12:00:00Z"}]}},
+
+  "fakeMonthlyAverage": {"from":"CAD","amount":55.0,"year":2017,"to":{"EUR":[{"monthlyAverage":36.5955301895,"month":5,"daysInMonth":31}]}}
+}
